@@ -1,5 +1,3 @@
-<img width="1438" height="707" alt="image" src="https://github.com/user-attachments/assets/c9565053-d351-4589-9ed6-974bacdb023e" /># 대학생 무료 프로그램 안내
-
 ## 목차
 
 1. [학생용 MATLAB](#1-학생용-matlab)
