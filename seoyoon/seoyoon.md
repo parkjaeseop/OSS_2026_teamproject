@@ -38,3 +38,14 @@
 | 구관 5층 | 개인문고, 고서실 등 |
 | 신관 지하 1층·2~4층 | 열람실 |
 | 신관 1층 | S-Lounge: 노트북 좌석, 휴식·토론 공간 등 |
+
+### 이용 전 확인사항
+
+자료실과 열람실은 운영시간이 서로 다르며, 학기 중·방학·시험기간에 따라 이용시간이 달라질 수 있다. 공사나 시설 점검으로 일부 공간이 임시 휴실할 수도 있으므로, 방문 전 도서관 홈페이지의 이용시간과 공지사항을 확인하는 것이 좋다.
+
+### 참고 자료
+
+- [경북대학교 도서관 홈페이지](https://kudos.knu.ac.kr/pages/)
+- [중앙도서관 층별 안내](https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642726244)
+- [신관 시설 안내](https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641547366)
+- [좌석 이용 안내](https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641896531)
