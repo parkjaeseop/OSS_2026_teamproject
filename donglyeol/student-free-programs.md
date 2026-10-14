@@ -57,6 +57,9 @@ Campus-Wide License 계약이 체결된 대학교에 재학 중이라면, 소속
 
 ![학생용 매트랩](student-Matlab.png)
 > 학생용 MATLAB 가입 화면이다. 'MATLAB 받기'를 통해 가입을 시작할 수 있다.
+
+---
+
 ## 2. Gemini for Student
 
 ## 3. 학생용 Notion 무료 업그레이드
