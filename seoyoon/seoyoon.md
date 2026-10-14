@@ -17,6 +17,7 @@
 빌린 책은 반납 예정일까지 대출실이나 무인반납기에 반납해야 한다. 지정도서 등 일부 자료에는 별도의 대출 조건이 적용되므로 확인이 필요하다.
 
 도서관은 종이책뿐 아니라 전자책도 제공한다. 도서관 홈페이지나 앱을 이용하면 전자책을 검색하고 대출할 수 있어 직접 방문하기 어려운 날에도 활용할 수 있다. 신입생은 도서관을 시험기간에만 이용하기보다 평소 과제 자료를 찾거나 공강 시간을 활용하는 공간으로 알아두면 좋다.
+전자책은 도서관 홈페이지에 로그인한 뒤 ‘검색 → eBook → 통합전자책’에서 이용할 수 있다. 모바일에서는 경북대학교 도서관 앱에 로그인한 뒤 ‘국내eBook → 전자책’으로 접속하면 된다.
 
 ### 열람실 이용
 
@@ -49,3 +50,5 @@
 - [중앙도서관 층별 안내](https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642726244)
 - [신관 시설 안내](https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641547366)
 - [좌석 이용 안내](https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641896531)
+-  [도서 대출·반납 안내](https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642678074)
+- [전자책 이용 안내](https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641542426)
