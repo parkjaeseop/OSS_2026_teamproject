@@ -52,3 +52,9 @@
 - [좌석 이용 안내](https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641896531)
 -  [도서 대출·반납 안내](https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1642678074)
 - [전자책 이용 안내](https://kudos.knu.ac.kr/pages/sub.htm?nav_code=kud1641542426)
+
+## 2. 진로취업과
+
+### 위치와 주요 기능
+
+진로취업과는 복지관 학생동 4층 JOB PLAZA에 있으며, 학생의 진로 탐색과 취업 준비를 지원한다. 전공과 관련된 진로를 알아보거나 대학생활 중 필요한 경험을 계획할 때 활용할 수 있다.
