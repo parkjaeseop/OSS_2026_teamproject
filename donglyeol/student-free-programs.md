@@ -59,8 +59,19 @@ Campus-Wide License 계약이 체결된 대학교에 재학 중이라면, 소속
 > 학생용 MATLAB 가입 화면이다. 'MATLAB 받기'를 통해 가입을 시작할 수 있다.
 
 ---
-
 ## 2. Gemini for Student
+- [2.1 Gemini란?](#21-gemini란)
+- [2.2 Gemini for student 무료 이용 조건](#22-gemini-for-student-무료-이용-조건)
+- [2.3 Gemini for student 가입 및 혜택 신청 방법](#23-gemini-for-student-가입-및-혜택-신청-방법)
+- [2.4 Gemini 무료 버전과 유료 혜택 비교](#24-gemini-무료-버전과-유료-혜택-비교)
+---
+### 2.1 Gemini란?
+
+### 2.2 Gemini for student 무료 이용 조건
+
+### 2.3 Gemini for student 가입 및 혜택 신청 방법
+
+### 2.4 Gemini 무료 버전과 유료 혜택 비교
 
 ## 3. 학생용 Notion 무료 업그레이드
 
