@@ -93,3 +93,10 @@
 **참고 자료**
 
 - [경북대학교 진로취업과 조직도 및 연락처](https://www.knu.ac.kr/wbbs/wbbs/user/organChart/view.action?menu_idx=21&organChart.content_url=org01_knujob)
+
+
+## 3. 교내 우편취급국
+
+### 위치와 이용 목적
+
+경북대학교 대구캠퍼스 우편취급국은 복지관 2층에 있다. 외부 기관에 서류를 보내거나 우편 제출이 필요한 자료를 발송할 때 활용할 수 있다.
