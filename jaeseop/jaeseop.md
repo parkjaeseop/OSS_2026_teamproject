@@ -65,11 +65,11 @@ B["강좌번호(11자리)"] --> C["자동입력방지문자"] --> D
 ```mermaid
 graph TD
   subgraph
-    graph LR
+    direction LR
       A["담당교수님께 메일로 확인"] --> B["차세대 통합정보시스템 접속"] --> C["수강"] --> D["수강신청"]
   end
   subgraph
-    graph LR
+    direction LR
       E["수강정원 변경원 신청"] --> F["강좌번호(11자리) 입력"] --> G["조회"] --> H["신청사유 작성"] --> I["신청"]
   end
 D --> E
