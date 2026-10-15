@@ -9,7 +9,6 @@
 1. [학생용 MATLAB](#1-학생용-matlab)
 2. [Gemini for Student](#2-gemini-for-student)
 3. [학생용 Notion 무료 업그레이드](#3-학생용-notion-무료-업그레이드)
-4. [학생을 위한 무료 Microsoft 365](#4-학생을-위한-무료-microsoft-365)
 
 ---
 
@@ -150,5 +149,3 @@ Gemini는 Google 계정으로 무료 이용할 수 있지만, Google AI Plus 요
 | 클라우드 저장 공간 | 15GB(기본 구글 계정 용량) | 200GB ~ 400GB |
 
 ## 3. 학생용 Notion 무료 업그레이드
-
-## 4. 학생을 위한 무료 Microsoft 365
