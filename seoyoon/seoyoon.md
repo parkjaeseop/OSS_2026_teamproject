@@ -99,11 +99,11 @@
 
 ### 위치와 이용 목적
 
-경북대학교 대구캠퍼스 우편취급국은 복지관 2층에 있다. 외부 기관에 서류를 보내거나 우편 제출이 필요한 자료를 발송할 때 활용할 수 있다.
+경북대학교 대구캠퍼스 우편취급국은 복지관 내에 있다. 외부 기관에 서류를 보내거나 우편 제출이 필요한 자료를 발송할 때 활용할 수 있다.
 
 **기본 정보**
 
-- 위치: 복지관 2층
+- 위치: 복지관 내(정확한 층과 출입구는 방문 전 문의)
 - 문의: 053-955-5281
 
 **참고 자료**
@@ -199,9 +199,11 @@ ATM 이용시간과 은행 창구 운영시간은 다를 수 있으므로, 직�
 
 ### 주요 안내 페이지
 
+### 주요 안내 페이지
+
 - [경북대학교 도서관](https://kudos.knu.ac.kr/)
 - [경북대학교 진로취업과](https://knujob.knu.ac.kr/)
-- [경북대학교 생활협동조합](http://coop.knu.ac.kr)
-- [경북대학교 편의시설 안내](https://www.knu.ac.kr/wbbs/wbbs/contents/index.action?menu_idx=147&menu_url=campus%2Fservice02_05)
+- [북대구우체국 관할우체국 안내](https://kpic.koreapost.go.kr/702/subIndex/3287.do)
+- [경북대학교 생활협동조합·편의시설 안내](https://www.knu.ac.kr/wbbs/wbbs/contents/index.action?menu_idx=147&menu_url=campus%2Fservice02_05)
 
 ※ 매장 구성과 운영시간 등은 변경될 수 있으므로 실제 이용 전 최신 안내를 확인한다.
