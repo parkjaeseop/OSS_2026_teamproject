@@ -25,7 +25,7 @@
 - 학생용 Notion 무료 업그레이드
 - 학생을 위한 무료 Microsoft 365
 
-### 4. [졸업요건 및 수강신청] (jaeseop/jaeseop.md)
+### 4. [졸업요건 및 수강신청](jaeseop/jaeseop.md)
 - 졸업요건
 - 수강 신청 방법
 - 수강 정정기간 및 수강 취소 기간
